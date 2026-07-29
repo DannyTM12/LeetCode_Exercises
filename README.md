@@ -32,10 +32,10 @@ Cada solución incluye:
 | Python — Easy | 20 |
 | Python — Medium | 0 |
 | Python — Hard | 0 |
-| SQL — Easy | 1 |
+| SQL — Easy | 2 |
 | SQL — Medium | 0 |
 | SQL — Hard | 0 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 
 
