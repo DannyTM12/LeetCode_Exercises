@@ -1,14 +1,14 @@
 # LeetCode Practice
 
-Soluciones a problemas de [LeetCode](https://leetcode.com/) como práctica continua de algoritmos y estructuras de datos, en paralelo a mi formación en Ingeniería en Computación Inteligente (UAA).
+Soluciones a problemas de [LeetCode](https://leetcode.com/) como práctica continua de algoritmos, estructuras de datos y SQL.
 
 ## Sobre este repo
 
-Este espacio documenta mi práctica de resolución de problemas algorítmicos. No es un proyecto de producción — es evidencia de trabajo consistente en fundamentos de algoritmia, complementario a mis proyectos aplicados de Machine Learning (ver [PhishGuard](https://github.com/DannyTM12/phishguard), mi proyecto principal).
+Este espacio documenta mi práctica de resolución de problemas algorítmicos. No es un proyecto de producción — es evidencia de trabajo consistente en fundamentos de algoritmia y bases de datos, complementario a mis proyectos aplicados de Machine Learning (ver [PhishGuard](https://github.com/DannyTM12/phishguard), mi proyecto principal).
 
 ## Estructura
 
-Cada archivo corresponde a un problema, nombrado como `{número}.{nombreDelProblema}.py`, siguiendo la numeración oficial de LeetCode:
+Los ejercicios de Python están en la raíz, nombrados como `{número}.{nombreDelProblema}.py`, siguiendo la numeración oficial de LeetCode. Los de SQL viven en `sql/`, con el mismo esquema de nombres:
 
 ```
 0001.twoSum.py
@@ -16,6 +16,9 @@ Cada archivo corresponde a un problema, nombrado como `{número}.{nombreDelProbl
 0013.romanToInteger.py
 0014.longestCommonPrefix.py
 ...
+sql/
+├── 1757.recycleAndLowFatProducts.sql
+└── ...
 ```
 
 Cada solución incluye:
@@ -24,21 +27,26 @@ Cada solución incluye:
 
 ## Progreso
 
-| Dificultad | Resueltos |
+| Categoría | Resueltos |
 |---|---|
-| Easy | 20 |
-| Medium | 0 |
-| Hard | 0 |
-| **Total** | **20** |
+| Python — Easy | 20 |
+| Python — Medium | 0 |
+| Python — Hard | 0 |
+| SQL — Easy | 1 |
+| SQL — Medium | 0 |
+| SQL — Hard | 0 |
+| **Total** | **21** |
+
 
 
 ## Stack
 
-Python 3
+- Python 3
+- SQL (MySQL/PostgreSQL para los ejercicios de `sql/`)
 
 ## Notas
 
-Las soluciones priorizan claridad y correctitud primero, optimización después. 
+Las soluciones priorizan claridad y correctitud primero, optimización después.
 
 ---
 
