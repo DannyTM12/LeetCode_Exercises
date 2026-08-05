@@ -35,7 +35,7 @@ Cada solución incluye:
 | SQL — Easy | 5 |
 | SQL — Medium | 0 |
 | SQL — Hard | 0 |
-| **Total** | **28** |
+| **Total** | **32** |
 
 
 
