@@ -29,7 +29,7 @@ Cada solución incluye:
 
 | Categoría | Resueltos |
 |---|---|
-| Python — Easy | 25 |
+| Python — Easy | 26 |
 | Python — Medium | 0 |
 | Python — Hard | 0 |
 | SQL — Easy | 5 |
