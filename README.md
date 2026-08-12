@@ -29,13 +29,13 @@ Cada solución incluye:
 
 | Categoría | Resueltos |
 |---|---|
-| Python — Easy | 33 |
-| Python — Medium | 2 |
+| Python — Easy | 34 |
+| Python — Medium | 3 |
 | Python — Hard | 0 |
 | SQL — Easy | 5 |
 | SQL — Medium | 0 |
 | SQL — Hard | 0 |
-| **Total** | **40** |
+| **Total** | **42** |
 
 
 
