@@ -30,12 +30,12 @@ Cada solución incluye:
 | Categoría | Resueltos |
 |---|---|
 | Python — Easy | 41 |
-| Python — Medium | 5 |
+| Python — Medium | 6 |
 | Python — Hard | 0 |
 | SQL — Easy | 5 |
 | SQL — Medium | 0 |
 | SQL — Hard | 0 |
-| **Total** | **51** |
+| **Total** | **52** |
 
 
 
